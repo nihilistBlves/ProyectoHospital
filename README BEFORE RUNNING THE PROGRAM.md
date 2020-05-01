@@ -8,3 +8,7 @@ Una vez seguidos estos pasos, runnea el Main del paquete Control.
 PARA LOGEAR:
   -Username: root
   -Password: root
+En las tablas del menu principal se puede hacer click derecho para:
+   -Asignar pacientes a enfermeros y médicos
+   -Editar datos
+   -Eliminar datos
